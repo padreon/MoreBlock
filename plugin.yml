@@ -1,0 +1,6 @@
+  name: MoreBlock
+  main: Padreon\Main
+  version: 2.5.1
+  api: ['3.0.0-ALPHA6']
+  load: POSTWORLD
+  authors: [Padreon]
